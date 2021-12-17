@@ -1,6 +1,5 @@
-
   <p align="center">
-  <h2 align="center">TLDR: I'm good with</h2>
+  <h2 align="center">I'm good with</h2>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
@@ -13,6 +12,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a55mage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a55mage&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a55mage&repo=FeedBucket&theme=tokyonight)](https://github.com/a55mage/FeedBucket)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a55mage&repo=Parakeet&theme=tokyonight)](https://github.com/a55mage/Parakeet)
 
 <p align="center">
 <br>
@@ -71,5 +73,5 @@
 - [PAC-Bot: Writing Text Messages for Developing Point-and-Click Games](https://link.springer.com/chapter/10.1007/978-3-030-79840-6_15)
 - [First-person Cinematographic Videogames: Game Model, Authoring Environment, and Potential for Creating Affection for Places](https://dl.acm.org/doi/abs/10.1145/3446977)
 
-
+![Profile views](https://gpvc.arturio.dev/a55mage)
 
