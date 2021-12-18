@@ -3,7 +3,7 @@
   <p align="center">
   🎮 Video Game Developer 🎓 Video Game Design Tutor @ University of Cagliari 📡 Web Developer
   <br>
-  ♠️♦️ Jack of all trades, master of none ♥️♣️
+  ♠️♦️ Jack of all trades ♥️♣️
   </p>
 
 </p>
