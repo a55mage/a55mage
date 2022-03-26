@@ -39,6 +39,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a55mage&repo=Parakeet&theme=tokyonight)](https://github.com/a55mage/Parakeet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidespano&repo=pacpac&theme=tokyonight)](https://github.com/davidespano/pacpac)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a55mage&repo=ItalianPizzaBot&theme=tokyonight)](https://github.com/a55mage/ItalianPizzaBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a55mage&repo=LinkFolio&theme=tokyonight)](https://github.com/a55mage/LinkFolio)
 
 
   <!-- … 
