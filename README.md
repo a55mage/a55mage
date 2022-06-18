@@ -92,7 +92,7 @@
 - [FeedBucket: Simplified Haptic Feedback for VR and MR](https://dl.acm.org/doi/abs/10.1145/3399715.3399947)
 - [PAC-Bot: Writing Text Messages for Developing Point-and-Click Games](https://link.springer.com/chapter/10.1007/978-3-030-79840-6_15)
 - [First-person Cinematographic Videogames: Game Model, Authoring Environment, and Potential for Creating Affection for Places](https://dl.acm.org/doi/abs/10.1145/3446977)
-- Defining Configurable Virtual Reality Templates for End Users]([https://dl.acm.org/doi/abs/10.1145/3446977](https://dl.acm.org/doi/10.1145/3534517))
+- [Defining Configurable Virtual Reality Templates for End Users](https://dl.acm.org/doi/10.1145/3534517)
 
 ![Profile views](https://gpvc.arturio.dev/a55mage)
 
