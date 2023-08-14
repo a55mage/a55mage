@@ -1,9 +1,7 @@
 <p align="center">
 <h1 align="center">Riccardo Macis</h1>
   <p align="center">
-  🎮 Video Game Developer 🎓 Video Game Design Tutor @ University of Cagliari 📡 Web Developer
-  <br>
-  ♠️♦️ Jack of all trades ♥️♣️
+  🎮 Video Game Developer 🎓 Former Video Game Design Tutor @ University of Cagliari 💻 Frontend Developer @ EY
   </p>
 
 </p>
@@ -19,6 +17,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Ancroid Studio" />
 </p>
 
 <p align="center">
@@ -92,6 +91,4 @@
 - [PAC-Bot: Writing Text Messages for Developing Point-and-Click Games](https://link.springer.com/chapter/10.1007/978-3-030-79840-6_15)
 - [First-person Cinematographic Videogames: Game Model, Authoring Environment, and Potential for Creating Affection for Places](https://dl.acm.org/doi/abs/10.1145/3446977)
 - [Defining Configurable Virtual Reality Templates for End Users](https://dl.acm.org/doi/10.1145/3534517)
-
-![Profile views](https://gpvc.arturio.dev/a55mage)
 
